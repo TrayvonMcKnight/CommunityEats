@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-b9262c8f685b220602c4a240786392cc497f0b7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-35b3f828fe2704aab27da979cb3b3460dde54991.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-bf9c5113917494496e20373b2638a26070bf92fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-3ea91125e5a53b347220402fdc725a5e47ba0fc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\libs\sinch-android-rtc-3.9.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fa96db518b9cfe1e6103193ae144d85732c0de8c">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\sinch-android-rtc-3.9.4-2edf9125187ca2d43795e044c2f3625e06a384e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="62209cacb78ffe64f71ed8527fd08d8fbb9fd433">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-d79923ec1efcfdd8f43258b8b468ffdf49a835c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-0a565300ef9c2fefd5db616c77bad9055d4ecb85.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-a36f20bc025e6b0c3e9083ba877fb5bce600adb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-5a60d578eebcc66b95d884b7090a4dc6e551819a.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-9f6cfba2fddfae36d64bd05a5f228097b38969aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-ecc93b5cf88a94d38146426dbbfcab359d3e1ce3.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-f4dfd1bb99364c27bcdb293fcd20fb4ab2d9c2f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-19acbe91b62ac5dee8d55a454ef4118ca1c4f94c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-d58f201d06d662dce8e188668566b1fc481bc9e9.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-275bab63aa778aab2637bcfe01a80ec5abfd8781.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-8f7698202191c748465cfd18f37d6faa6a4f9d7c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-b6eba14c92a6474176ede626d85fe8053a845c2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-a9c50444bc7b1c1bba9bb5f59f1f2055dde42395.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-0bde99f8616160c5f3f44cef1a8fdf41328c10e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-c25943c9f8b788c333a6af7ae52bdc68fb034d65.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-3ad8c75abe766a9524c5d94dad99db364b5c79ec.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-9d138f9ae6dc986bd1e35876e1aad936e011c391.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-9491bf0260082fca4aad96d746150d39325839d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-40d2feccbfdb6c3c5ddd8a9531391fc7af225a0a.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-1e08835682bd06fb7baec22f8304be2d9f4a5642.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-0cf82d0f922d9fe33b1d6533987ed1c240a15f9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-01f6aa987d4a9cd7cdac100f4cf27d8cc54c8e73.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-effc5e1590b5e6efa1ab71fcc1af5bbeb07d74fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-81e9e05c41bee41332bc3b1f11fa24ff5cb5dff1.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-e1d9b7c0ad4710a8b33558027794df98678fc8d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\IBM_ADMIN\Documents\sinch-android-rtc-3.9.4\samples\sinch-rtc-sample-messaging\build\intermediates\pre-dexed\debug\classes-f8f16b43dbb9f168a10635ead1beb68bb1460e14.jar" />
+    </item>
+
+</items>
